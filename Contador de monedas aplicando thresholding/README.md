@@ -8,4 +8,7 @@ Mi blog: https://omes-va.com/contando-objetos-aplicando-umbralizacion-thersholdi
 Video: https://youtu.be/wBPIAGNTFzY
 
 
+A continuación puedes ver el proceso que se ha realizado en monedasTH.py
+
+
 ![](ProcesoTotal.gif)
