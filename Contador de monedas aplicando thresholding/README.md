@@ -6,3 +6,6 @@ thresholding puedes visitar:
 Mi blog: https://omes-va.com/contando-objetos-aplicando-umbralizacion-thersholding/
 
 Video: https://youtu.be/wBPIAGNTFzY
+
+
+![](ProcesoTotal.gif)
