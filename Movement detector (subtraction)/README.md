@@ -7,7 +7,7 @@ O dirígente al post de mi web: https://omes-va.com/deteccion-de-movimiento-con-
 
 El proceso realizado dentro de detectMov.py, con el video Video.mp4 es el siguiente:
 
-![](movDetect.gif)
+![](proceso.png)
 
 Finalmente se obtendrá la detección de movimiento con sustracción de imágenes:
 
