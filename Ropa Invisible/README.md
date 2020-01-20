@@ -1,4 +1,4 @@
-#👚 ROPA INVISIBLE - OpenCV y Python
+# 👚 ROPA INVISIBLE - OpenCV y Python
 
 Para una descripción más detallada del proceso realizado para desarrollar esta pequeña aplicación, puedes dirigirte a:
 
