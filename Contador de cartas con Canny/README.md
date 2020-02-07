@@ -1,4 +1,4 @@
-🧮 CONTANDO OBJETOS (Aplicando detección de bordes con CANNY) en Python-OpenCV
+## 🧮 CONTANDO OBJETOS (Aplicando detección de bordes con CANNY) en Python-OpenCV
 
 Para una descripción más detallada el proceso realizado para encontrar cartas/barajas aplicando cv2.Canny, puedes dirigirte a:
 
