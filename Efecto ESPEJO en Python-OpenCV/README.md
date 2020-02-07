@@ -1,4 +1,4 @@
-Efecto ESPEJO en Python-OpenCV
+## Efecto ESPEJO en Python-OpenCV
 
 Para una descripción más detallada el proceso realizado para realizar el efecto espejo y explicación sobre la función cv2.flip, puedes dirigirte a:
 
